@@ -15,7 +15,7 @@
  * Description: Show image descriptions as captions in galleries.
  * Author:      Milan Dinić
  * Author URI:  http://blog.milandinic.com/
- * Version:     1.0-beta-1
+ * Version:     1.0
  * Text Domain: dacig
  * Domain Path: /languages/
  * License:     GPL
